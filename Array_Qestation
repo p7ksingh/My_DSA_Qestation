@@ -1,0 +1,3 @@
+Q) Push Zero to end
+input --> 2 0 0 1 3 0 0
+output --> 2 1 3 0 0 0 0
